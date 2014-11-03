@@ -7,4 +7,4 @@
 
 	```python smtp_send.py```
 
-3. I got nothing, lists usually have more than 2 items.
+3. Template for smtp send script: http://en.wikibooks.org/wiki/Python_Programming/Email
